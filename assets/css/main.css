@@ -1056,7 +1056,6 @@ table {
 }
 
 table tbody tr {
-	border: solid 1px #000000;
 	border-left: 0;
 	border-right: 0;
 }
